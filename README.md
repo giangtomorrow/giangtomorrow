@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @giangtomorrow
-- 👀 I’m interested in aircraft and embedded systems
-- 🌱 I’m currently studying Aerospace Engineering major with ECE minor at Purdue
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-giangtomorrow/giangtomorrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Giang (@giangtomorrow)
+- 🎓 Aerospace Engineering student at Purdue University, minoring in Product Lifecycle Management (PLM)
+- 🛠️ CAD/PLM tools: Siemens NX, Teamcenter — plus embedded systems and UAV/sensor work from lab research
+- ✈️ Interested in aircraft design, embedded systems, and the digital engineering tools that connect them
+- 🌱 Building personal projects and open to collaborating on aerospace or embedded systems ideas
+- 📫 Reach me at nguyengiangthientai5088@gmail.com
