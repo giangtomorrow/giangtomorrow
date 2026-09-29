@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Giang (@giangtomorrow)
-- 🎓 Aerospace Engineering student at Purdue University, minoring in Product Lifecycle Management (PLM)
+- 🎓 Aerospace Engineering student at Purdue University
 - 🛠️ CAD/PLM tools: Siemens NX, Teamcenter — plus embedded systems and UAV/sensor work from lab research
 - ✈️ Interested in aircraft design, embedded systems, and the digital engineering tools that connect them
 - 🌱 Building personal projects and open to collaborating on aerospace or embedded systems ideas
